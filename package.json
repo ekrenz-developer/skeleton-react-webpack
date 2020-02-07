@@ -43,7 +43,11 @@
     "type": "git",
     "url": "git+https://github.com/ekrenz-developer/skeleton-react-webpack.git"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "webpack",
+    "hooks"
+  ],
   "bugs": {
     "url": "https://github.com/ekrenz-developer/skeleton-react-webpack/issues"
   },
